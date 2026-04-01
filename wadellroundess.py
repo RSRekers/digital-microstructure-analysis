@@ -1,4 +1,7 @@
-# an implementation in python for determining the Wadell roundness based on the work W. Fei, G.A. Narsilio, M.M. Disfani, Impact of three-dimensional sphericity and roundness on heat transfer in granular materials, Powder Technol. 355 (2019) 770–781.
+# an implementation in python for determining the Wadell roundness based on the work 
+    #W. Fei, G.A. Narsilio, M.M. Disfani, 
+    # Impact of three-dimensional sphericity and roundness on heat transfer in granular materials, 
+    # Powder Technol. 355 (2019) 770–781.
 # Author: René Rekers
 import numpy as np
 import pyvista as pv
